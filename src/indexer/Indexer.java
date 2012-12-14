@@ -3,7 +3,7 @@ package indexer;
 import java.io.FileNotFoundException;
 
 /**
- *trololo
+ *
  * @author Maju
  */
 public class Indexer {
